@@ -1,0 +1,2 @@
+<!-- git init --><!-- for making git repo-->
+<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Atque architecto, sunt saepe esse dignissimos dolorem unde quaerat eum, officiis repellat impedit corrupti est quas suscipit, sit molestiae. Repellat, eius alias.</p>
